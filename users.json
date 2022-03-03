@@ -1,0 +1,26 @@
+[
+    {
+        "username": "admin",
+        "id": 1
+    },
+    {
+        "id": 2,
+        "username": "master"
+    },
+    {
+        "id": 3,
+        "username": "cme"
+    },
+    {
+        "id": 4,
+        "username": "dlp"
+    },
+    {
+        "id": 5,
+        "username": "adminLDAP"
+    },
+    {
+        "id": 6,
+        "username": "a.manager"
+    }
+]
